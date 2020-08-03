@@ -1,0 +1,718 @@
+19/04/2018 09:52:57 - Switch de IP 10.101.100.145 iniciou o processo de push command
+19/04/2018 09:53:21 - CONEXAO SSH no Switch de IP 10.12.8.44 REALIZADA COM SUCESSO!
+19/04/2018 09:53:39 - Switch de IP 10.12.8.44 está com hora e data sincronizados!
+19/04/2018 09:53:39 - Switch de IP 10.12.8.44 iniciou o processo de push command
+19/04/2018 09:54:03 - CONEXAO SSH no Switch de IP 10.12.8.96 REALIZADA COM SUCESSO!
+19/04/2018 09:54:21 - Switch de IP 10.12.8.96 está com hora e data sincronizados!
+19/04/2018 09:54:21 - Switch de IP 10.12.8.96 iniciou o processo de push command
+19/04/2018 09:54:45 - CONEXAO SSH no Switch de IP 10.12.8.93 REALIZADA COM SUCESSO!
+19/04/2018 09:55:03 - Switch de IP 10.12.8.93 está com hora e data sincronizados!
+19/04/2018 09:55:03 - Switch de IP 10.12.8.93 iniciou o processo de push command
+19/04/2018 09:55:27 - CONEXAO SSH no Switch de IP 10.0.60.42 REALIZADA COM SUCESSO!
+19/04/2018 09:55:45 - Switch de IP 10.0.60.42 está com hora e data sincronizados!
+19/04/2018 09:55:45 - Switch de IP 10.0.60.42 iniciou o processo de push command
+19/04/2018 09:56:09 - CONEXAO SSH no Switch de IP 10.0.60.43 REALIZADA COM SUCESSO!
+19/04/2018 09:56:27 - Switch de IP 10.0.60.43 está com hora e data sincronizados!
+19/04/2018 09:56:27 - Switch de IP 10.0.60.43 iniciou o processo de push command
+====================================================================================
+
+19/04/2018 12:37:16 - CONEXAO SSH no Switch de IP 10.101.100.140 REALIZADA COM SUCESSO!
+19/04/2018 12:37:34 - Switch de IP 10.101.100.140 está com hora e data sincronizados!
+19/04/2018 12:37:34 - Switch de IP 10.101.100.140 iniciou o processo de push command
+19/04/2018 12:37:34 - A execução do comando no switch de IP 10.101.100.140 DEU CERTO!!!
+19/04/2018 12:38:09 - CONEXAO SSH no Switch de IP 10.101.100.139 REALIZADA COM SUCESSO!
+19/04/2018 12:38:26 - Switch de IP 10.101.100.139 está com hora e data sincronizados!
+19/04/2018 12:38:26 - Switch de IP 10.101.100.139 iniciou o processo de push command
+19/04/2018 12:38:26 - A execução do comando no switch de IP 10.101.100.139 DEU CERTO!!!
+19/04/2018 12:39:00 - CONEXAO SSH no Switch de IP 10.101.100.138 REALIZADA COM SUCESSO!
+19/04/2018 12:39:18 - Switch de IP 10.101.100.138 está com hora e data sincronizados!
+19/04/2018 12:39:18 - Switch de IP 10.101.100.138 iniciou o processo de push command
+19/04/2018 12:39:18 - A execução do comando no switch de IP 10.101.100.138 DEU CERTO!!!
+19/04/2018 12:39:52 - CONEXAO SSH no Switch de IP 10.101.100.156 REALIZADA COM SUCESSO!
+19/04/2018 12:40:10 - Switch de IP 10.101.100.156 está com hora e data sincronizados!
+19/04/2018 12:40:10 - Switch de IP 10.101.100.156 iniciou o processo de push command
+19/04/2018 12:40:10 - A execução do comando no switch de IP 10.101.100.156 DEU CERTO!!!
+19/04/2018 12:40:44 - CONEXAO SSH no Switch de IP 10.101.100.157 REALIZADA COM SUCESSO!
+19/04/2018 12:41:02 - Switch de IP 10.101.100.157 está com hora e data sincronizados!
+19/04/2018 12:41:02 - Switch de IP 10.101.100.157 iniciou o processo de push command
+19/04/2018 12:41:02 - A execução do comando no switch de IP 10.101.100.157 DEU CERTO!!!
+19/04/2018 12:41:36 - CONEXAO SSH no Switch de IP 10.101.100.154 REALIZADA COM SUCESSO!
+19/04/2018 12:41:54 - Switch de IP 10.101.100.154 está com hora e data sincronizados!
+19/04/2018 12:41:54 - Switch de IP 10.101.100.154 iniciou o processo de push command
+19/04/2018 12:41:54 - A execução do comando no switch de IP 10.101.100.154 DEU CERTO!!!
+19/04/2018 12:42:28 - CONEXAO SSH no Switch de IP 10.101.100.155 REALIZADA COM SUCESSO!
+19/04/2018 12:42:46 - Switch de IP 10.101.100.155 está com hora e data sincronizados!
+19/04/2018 12:42:46 - Switch de IP 10.101.100.155 iniciou o processo de push command
+19/04/2018 12:42:46 - A execução do comando no switch de IP 10.101.100.155 DEU CERTO!!!
+19/04/2018 12:43:20 - CONEXAO SSH no Switch de IP 10.101.100.137 REALIZADA COM SUCESSO!
+19/04/2018 12:43:37 - Switch de IP 10.101.100.137 está com hora e data sincronizados!
+19/04/2018 12:43:37 - Switch de IP 10.101.100.137 iniciou o processo de push command
+19/04/2018 12:43:37 - A execução do comando no switch de IP 10.101.100.137 DEU CERTO!!!
+19/04/2018 12:44:12 - CONEXAO SSH no Switch de IP 10.101.100.160 REALIZADA COM SUCESSO!
+19/04/2018 12:44:29 - Switch de IP 10.101.100.160 está com hora e data sincronizados!
+19/04/2018 12:44:29 - Switch de IP 10.101.100.160 iniciou o processo de push command
+19/04/2018 12:44:29 - A execução do comando no switch de IP 10.101.100.160 DEU CERTO!!!
+19/04/2018 12:45:05 - CONEXAO SSH no Switch de IP 10.101.100.14 REALIZADA COM SUCESSO!
+19/04/2018 12:45:23 - Switch de IP 10.101.100.14 está com hora e data sincronizados!
+19/04/2018 12:45:23 - Switch de IP 10.101.100.14 iniciou o processo de push command
+19/04/2018 12:45:23 - A execução do comando no switch de IP 10.101.100.14 DEU CERTO!!!
+19/04/2018 12:45:58 - CONEXAO SSH no Switch de IP 10.101.100.161 REALIZADA COM SUCESSO!
+19/04/2018 12:46:16 - Switch de IP 10.101.100.161 está com hora e data sincronizados!
+19/04/2018 12:46:16 - Switch de IP 10.101.100.161 iniciou o processo de push command
+19/04/2018 12:46:16 - A execução do comando no switch de IP 10.101.100.161 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 12:55:10 - Switch de IP 10.101.100.158 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 12:55:25 - Switch de IP 10.101.100.159 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 12:55:27 - CONEXAO SSH no Switch de IP 10.101.100.162 REALIZADA COM SUCESSO!
+19/04/2018 12:55:45 - Switch de IP 10.101.100.162 está com hora e data sincronizados!
+19/04/2018 12:55:45 - Switch de IP 10.101.100.162 iniciou o processo de push command
+19/04/2018 12:55:45 - A execução do comando no switch de IP 10.101.100.162 DEU CERTO!!!
+19/04/2018 12:56:20 - CONEXAO SSH no Switch de IP 10.101.100.163 REALIZADA COM SUCESSO!
+19/04/2018 12:56:38 - Switch de IP 10.101.100.163 está com hora e data sincronizados!
+19/04/2018 12:56:38 - Switch de IP 10.101.100.163 iniciou o processo de push command
+19/04/2018 12:56:38 - A execução do comando no switch de IP 10.101.100.163 DEU CERTO!!!
+19/04/2018 12:57:13 - CONEXAO SSH no Switch de IP 10.101.100.126 REALIZADA COM SUCESSO!
+19/04/2018 12:57:30 - Switch de IP 10.101.100.126 está com hora e data sincronizados!
+19/04/2018 12:57:30 - Switch de IP 10.101.100.126 iniciou o processo de push command
+19/04/2018 12:57:30 - A execução do comando no switch de IP 10.101.100.126 DEU CERTO!!!
+19/04/2018 12:58:05 - CONEXAO SSH no Switch de IP 10.101.100.131 REALIZADA COM SUCESSO!
+19/04/2018 12:58:22 - Switch de IP 10.101.100.131 está com hora e data sincronizados!
+19/04/2018 12:58:22 - Switch de IP 10.101.100.131 iniciou o processo de push command
+19/04/2018 12:58:22 - A execução do comando no switch de IP 10.101.100.131 DEU CERTO!!!
+19/04/2018 12:58:57 - CONEXAO SSH no Switch de IP 10.101.100.127 REALIZADA COM SUCESSO!
+19/04/2018 12:59:14 - Switch de IP 10.101.100.127 está com hora e data sincronizados!
+19/04/2018 12:59:14 - Switch de IP 10.101.100.127 iniciou o processo de push command
+19/04/2018 12:59:14 - A execução do comando no switch de IP 10.101.100.127 DEU CERTO!!!
+19/04/2018 12:59:49 - CONEXAO SSH no Switch de IP 10.101.100.132 REALIZADA COM SUCESSO!
+19/04/2018 13:00:07 - Switch de IP 10.101.100.132 está com hora e data sincronizados!
+19/04/2018 13:00:07 - Switch de IP 10.101.100.132 iniciou o processo de push command
+19/04/2018 13:00:07 - A execução do comando no switch de IP 10.101.100.132 DEU CERTO!!!
+19/04/2018 13:00:42 - CONEXAO SSH no Switch de IP 10.101.100.128 REALIZADA COM SUCESSO!
+19/04/2018 13:00:59 - Switch de IP 10.101.100.128 está com hora e data sincronizados!
+19/04/2018 13:00:59 - Switch de IP 10.101.100.128 iniciou o processo de push command
+19/04/2018 13:00:59 - A execução do comando no switch de IP 10.101.100.128 DEU CERTO!!!
+19/04/2018 13:01:35 - CONEXAO SSH no Switch de IP 10.101.100.133 REALIZADA COM SUCESSO!
+19/04/2018 13:01:53 - Switch de IP 10.101.100.133 está com hora e data sincronizados!
+19/04/2018 13:01:53 - Switch de IP 10.101.100.133 iniciou o processo de push command
+19/04/2018 13:01:53 - A execução do comando no switch de IP 10.101.100.133 DEU CERTO!!!
+19/04/2018 13:02:28 - CONEXAO SSH no Switch de IP 10.101.100.129 REALIZADA COM SUCESSO!
+19/04/2018 13:02:45 - Switch de IP 10.101.100.129 está com hora e data sincronizados!
+19/04/2018 13:02:45 - Switch de IP 10.101.100.129 iniciou o processo de push command
+19/04/2018 13:02:45 - A execução do comando no switch de IP 10.101.100.129 DEU CERTO!!!
+19/04/2018 13:03:21 - CONEXAO SSH no Switch de IP 10.101.100.134 REALIZADA COM SUCESSO!
+19/04/2018 13:03:39 - Switch de IP 10.101.100.134 está com hora e data sincronizados!
+19/04/2018 13:03:39 - Switch de IP 10.101.100.134 iniciou o processo de push command
+19/04/2018 13:03:39 - A execução do comando no switch de IP 10.101.100.134 DEU CERTO!!!
+19/04/2018 13:04:13 - CONEXAO SSH no Switch de IP 10.101.100.130 REALIZADA COM SUCESSO!
+19/04/2018 13:04:31 - Switch de IP 10.101.100.130 está com hora e data sincronizados!
+19/04/2018 13:04:31 - Switch de IP 10.101.100.130 iniciou o processo de push command
+19/04/2018 13:04:31 - A execução do comando no switch de IP 10.101.100.130 DEU CERTO!!!
+19/04/2018 13:05:05 - CONEXAO SSH no Switch de IP 10.101.100.135 REALIZADA COM SUCESSO!
+19/04/2018 13:05:23 - Switch de IP 10.101.100.135 está com hora e data sincronizados!
+19/04/2018 13:05:23 - Switch de IP 10.101.100.135 iniciou o processo de push command
+19/04/2018 13:05:23 - A execução do comando no switch de IP 10.101.100.135 DEU CERTO!!!
+19/04/2018 13:05:57 - CONEXAO SSH no Switch de IP 10.101.100.136 REALIZADA COM SUCESSO!
+19/04/2018 13:06:15 - Switch de IP 10.101.100.136 está com hora e data sincronizados!
+19/04/2018 13:06:15 - Switch de IP 10.101.100.136 iniciou o processo de push command
+19/04/2018 13:06:15 - A execução do comando no switch de IP 10.101.100.136 DEU CERTO!!!
+19/04/2018 13:06:49 - CONEXAO SSH no Switch de IP 10.101.100.152 REALIZADA COM SUCESSO!
+19/04/2018 13:07:06 - Switch de IP 10.101.100.152 está com hora e data sincronizados!
+19/04/2018 13:07:06 - Switch de IP 10.101.100.152 iniciou o processo de push command
+19/04/2018 13:07:06 - A execução do comando no switch de IP 10.101.100.152 DEU CERTO!!!
+19/04/2018 13:07:41 - CONEXAO SSH no Switch de IP 10.101.100.151 REALIZADA COM SUCESSO!
+19/04/2018 13:07:58 - Switch de IP 10.101.100.151 está com hora e data sincronizados!
+19/04/2018 13:07:58 - Switch de IP 10.101.100.151 iniciou o processo de push command
+19/04/2018 13:07:58 - A execução do comando no switch de IP 10.101.100.151 DEU CERTO!!!
+19/04/2018 13:08:33 - CONEXAO SSH no Switch de IP 10.101.100.150 REALIZADA COM SUCESSO!
+19/04/2018 13:08:50 - Switch de IP 10.101.100.150 está com hora e data sincronizados!
+19/04/2018 13:08:50 - Switch de IP 10.101.100.150 iniciou o processo de push command
+19/04/2018 13:08:50 - A execução do comando no switch de IP 10.101.100.150 DEU CERTO!!!
+19/04/2018 13:09:25 - CONEXAO SSH no Switch de IP 10.101.100.147 REALIZADA COM SUCESSO!
+19/04/2018 13:09:42 - Switch de IP 10.101.100.147 está com hora e data sincronizados!
+19/04/2018 13:09:42 - Switch de IP 10.101.100.147 iniciou o processo de push command
+19/04/2018 13:09:42 - A execução do comando no switch de IP 10.101.100.147 DEU CERTO!!!
+19/04/2018 13:10:18 - CONEXAO SSH no Switch de IP 10.101.100.148 REALIZADA COM SUCESSO!
+19/04/2018 13:10:36 - Switch de IP 10.101.100.148 está com hora e data sincronizados!
+19/04/2018 13:10:36 - Switch de IP 10.101.100.148 iniciou o processo de push command
+19/04/2018 13:10:36 - A execução do comando no switch de IP 10.101.100.148 DEU CERTO!!!
+19/04/2018 13:11:10 - CONEXAO SSH no Switch de IP 10.101.100.149 REALIZADA COM SUCESSO!
+19/04/2018 13:11:28 - Switch de IP 10.101.100.149 está com hora e data sincronizados!
+19/04/2018 13:11:28 - Switch de IP 10.101.100.149 iniciou o processo de push command
+19/04/2018 13:11:28 - A execução do comando no switch de IP 10.101.100.149 DEU CERTO!!!
+19/04/2018 13:12:02 - CONEXAO SSH no Switch de IP 10.101.100.123 REALIZADA COM SUCESSO!
+19/04/2018 13:12:20 - Switch de IP 10.101.100.123 está com hora e data sincronizados!
+19/04/2018 13:12:20 - Switch de IP 10.101.100.123 iniciou o processo de push command
+19/04/2018 13:12:20 - A execução do comando no switch de IP 10.101.100.123 DEU CERTO!!!
+19/04/2018 13:12:54 - CONEXAO SSH no Switch de IP 10.101.100.188 REALIZADA COM SUCESSO!
+19/04/2018 13:13:12 - Switch de IP 10.101.100.188 está com hora e data sincronizados!
+19/04/2018 13:13:12 - Switch de IP 10.101.100.188 iniciou o processo de push command
+19/04/2018 13:13:12 - A execução do comando no switch de IP 10.101.100.188 DEU CERTO!!!
+19/04/2018 13:13:46 - CONEXAO SSH no Switch de IP 10.101.100.189 REALIZADA COM SUCESSO!
+19/04/2018 13:14:04 - Switch de IP 10.101.100.189 está com hora e data sincronizados!
+19/04/2018 13:14:04 - Switch de IP 10.101.100.189 iniciou o processo de push command
+19/04/2018 13:14:04 - A execução do comando no switch de IP 10.101.100.189 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 13:14:51 - Switch de IP 10.101.100.142 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 13:14:54 - CONEXAO SSH no Switch de IP 10.0.60.36 REALIZADA COM SUCESSO!
+19/04/2018 13:15:12 - Switch de IP 10.0.60.36 está com hora e data sincronizados!
+19/04/2018 13:15:12 - Switch de IP 10.0.60.36 iniciou o processo de push command
+19/04/2018 13:15:12 - A execução do comando no switch de IP 10.0.60.36 DEU CERTO!!!
+19/04/2018 13:15:46 - CONEXAO SSH no Switch de IP 10.0.60.37 REALIZADA COM SUCESSO!
+19/04/2018 13:16:04 - Switch de IP 10.0.60.37 está com hora e data sincronizados!
+19/04/2018 13:16:04 - Switch de IP 10.0.60.37 iniciou o processo de push command
+19/04/2018 13:16:04 - A execução do comando no switch de IP 10.0.60.37 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 13:16:50 - Switch de IP 10.0.60.38 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:17:05 - Switch de IP 10.0.60.39 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 13:17:08 - CONEXAO SSH no Switch de IP 10.0.60.40 REALIZADA COM SUCESSO!
+19/04/2018 13:17:26 - Switch de IP 10.0.60.40 está com hora e data sincronizados!
+19/04/2018 13:17:26 - Switch de IP 10.0.60.40 iniciou o processo de push command
+19/04/2018 13:17:26 - A execução do comando no switch de IP 10.0.60.40 DEU CERTO!!!
+19/04/2018 13:18:00 - CONEXAO SSH no Switch de IP 10.0.60.41 REALIZADA COM SUCESSO!
+19/04/2018 13:18:18 - Switch de IP 10.0.60.41 está com hora e data sincronizados!
+19/04/2018 13:18:18 - Switch de IP 10.0.60.41 iniciou o processo de push command
+19/04/2018 13:18:18 - A execução do comando no switch de IP 10.0.60.41 DEU CERTO!!!
+19/04/2018 13:18:52 - CONEXAO SSH no Switch de IP 10.0.60.42 REALIZADA COM SUCESSO!
+19/04/2018 13:19:09 - Switch de IP 10.0.60.42 está com hora e data sincronizados!
+19/04/2018 13:19:09 - Switch de IP 10.0.60.42 iniciou o processo de push command
+19/04/2018 13:19:09 - A execução do comando no switch de IP 10.0.60.42 DEU CERTO!!!
+19/04/2018 13:19:44 - CONEXAO SSH no Switch de IP 10.0.60.43 REALIZADA COM SUCESSO!
+19/04/2018 13:20:02 - Switch de IP 10.0.60.43 está com hora e data sincronizados!
+19/04/2018 13:20:02 - Switch de IP 10.0.60.43 iniciou o processo de push command
+19/04/2018 13:20:02 - A execução do comando no switch de IP 10.0.60.43 DEU CERTO!!!
+19/04/2018 13:20:36 - CONEXAO SSH no Switch de IP 10.0.60.44 REALIZADA COM SUCESSO!
+19/04/2018 13:20:54 - Switch de IP 10.0.60.44 está com hora e data sincronizados!
+19/04/2018 13:20:54 - Switch de IP 10.0.60.44 iniciou o processo de push command
+19/04/2018 13:20:54 - A execução do comando no switch de IP 10.0.60.44 DEU CERTO!!!
+19/04/2018 13:21:28 - CONEXAO SSH no Switch de IP 10.0.60.45 REALIZADA COM SUCESSO!
+19/04/2018 13:21:46 - Switch de IP 10.0.60.45 está com hora e data sincronizados!
+19/04/2018 13:21:46 - Switch de IP 10.0.60.45 iniciou o processo de push command
+19/04/2018 13:21:46 - A execução do comando no switch de IP 10.0.60.45 DEU CERTO!!!
+19/04/2018 13:22:20 - CONEXAO SSH no Switch de IP 10.0.60.46 REALIZADA COM SUCESSO!
+19/04/2018 13:22:38 - Switch de IP 10.0.60.46 está com hora e data sincronizados!
+19/04/2018 13:22:38 - Switch de IP 10.0.60.46 iniciou o processo de push command
+19/04/2018 13:22:38 - A execução do comando no switch de IP 10.0.60.46 DEU CERTO!!!
+19/04/2018 13:23:12 - CONEXAO SSH no Switch de IP 10.0.60.47 REALIZADA COM SUCESSO!
+19/04/2018 13:23:30 - Switch de IP 10.0.60.47 está com hora e data sincronizados!
+19/04/2018 13:23:30 - Switch de IP 10.0.60.47 iniciou o processo de push command
+19/04/2018 13:23:30 - A execução do comando no switch de IP 10.0.60.47 DEU CERTO!!!
+19/04/2018 13:24:04 - CONEXAO SSH no Switch de IP 10.0.60.48 REALIZADA COM SUCESSO!
+19/04/2018 13:24:22 - Switch de IP 10.0.60.48 está com hora e data sincronizados!
+19/04/2018 13:24:22 - Switch de IP 10.0.60.48 iniciou o processo de push command
+19/04/2018 13:24:22 - A execução do comando no switch de IP 10.0.60.48 DEU CERTO!!!
+19/04/2018 13:24:56 - CONEXAO SSH no Switch de IP 10.0.60.49 REALIZADA COM SUCESSO!
+19/04/2018 13:25:14 - Switch de IP 10.0.60.49 está com hora e data sincronizados!
+19/04/2018 13:25:14 - Switch de IP 10.0.60.49 iniciou o processo de push command
+19/04/2018 13:25:14 - A execução do comando no switch de IP 10.0.60.49 DEU CERTO!!!
+19/04/2018 13:25:48 - CONEXAO SSH no Switch de IP 10.0.60.50 REALIZADA COM SUCESSO!
+19/04/2018 13:26:06 - Switch de IP 10.0.60.50 está com hora e data sincronizados!
+19/04/2018 13:26:06 - Switch de IP 10.0.60.50 iniciou o processo de push command
+19/04/2018 13:26:06 - A execução do comando no switch de IP 10.0.60.50 DEU CERTO!!!
+19/04/2018 13:26:41 - CONEXAO SSH no Switch de IP 10.0.60.51 REALIZADA COM SUCESSO!
+19/04/2018 13:26:59 - Switch de IP 10.0.60.51 está com hora e data sincronizados!
+19/04/2018 13:26:59 - Switch de IP 10.0.60.51 iniciou o processo de push command
+19/04/2018 13:26:59 - A execução do comando no switch de IP 10.0.60.51 DEU CERTO!!!
+19/04/2018 13:27:33 - CONEXAO SSH no Switch de IP 10.0.60.52 REALIZADA COM SUCESSO!
+19/04/2018 13:27:51 - Switch de IP 10.0.60.52 está com hora e data sincronizados!
+19/04/2018 13:27:51 - Switch de IP 10.0.60.52 iniciou o processo de push command
+19/04/2018 13:27:51 - A execução do comando no switch de IP 10.0.60.52 DEU CERTO!!!
+19/04/2018 13:28:25 - CONEXAO SSH no Switch de IP 10.0.60.53 REALIZADA COM SUCESSO!
+19/04/2018 13:28:43 - Switch de IP 10.0.60.53 está com hora e data sincronizados!
+19/04/2018 13:28:43 - Switch de IP 10.0.60.53 iniciou o processo de push command
+19/04/2018 13:28:43 - A execução do comando no switch de IP 10.0.60.53 DEU CERTO!!!
+19/04/2018 13:29:17 - CONEXAO SSH no Switch de IP 10.0.60.54 REALIZADA COM SUCESSO!
+19/04/2018 13:29:35 - Switch de IP 10.0.60.54 está com hora e data sincronizados!
+19/04/2018 13:29:35 - Switch de IP 10.0.60.54 iniciou o processo de push command
+19/04/2018 13:29:35 - A execução do comando no switch de IP 10.0.60.54 DEU CERTO!!!
+19/04/2018 13:30:09 - CONEXAO SSH no Switch de IP 10.0.60.55 REALIZADA COM SUCESSO!
+19/04/2018 13:30:26 - Switch de IP 10.0.60.55 está com hora e data sincronizados!
+19/04/2018 13:30:26 - Switch de IP 10.0.60.55 iniciou o processo de push command
+19/04/2018 13:30:26 - A execução do comando no switch de IP 10.0.60.55 DEU CERTO!!!
+19/04/2018 13:31:01 - CONEXAO SSH no Switch de IP 10.0.60.76 REALIZADA COM SUCESSO!
+19/04/2018 13:31:19 - Switch de IP 10.0.60.76 está com hora e data sincronizados!
+19/04/2018 13:31:19 - Switch de IP 10.0.60.76 iniciou o processo de push command
+19/04/2018 13:31:19 - A execução do comando no switch de IP 10.0.60.76 DEU CERTO!!!
+19/04/2018 13:31:53 - CONEXAO SSH no Switch de IP 10.0.60.60 REALIZADA COM SUCESSO!
+19/04/2018 13:32:10 - Switch de IP 10.0.60.60 está com hora e data sincronizados!
+19/04/2018 13:32:10 - Switch de IP 10.0.60.60 iniciou o processo de push command
+19/04/2018 13:32:10 - A execução do comando no switch de IP 10.0.60.60 DEU CERTO!!!
+19/04/2018 13:32:45 - CONEXAO SSH no Switch de IP 10.0.60.61 REALIZADA COM SUCESSO!
+19/04/2018 13:33:02 - Switch de IP 10.0.60.61 está com hora e data sincronizados!
+19/04/2018 13:33:02 - Switch de IP 10.0.60.61 iniciou o processo de push command
+19/04/2018 13:33:02 - A execução do comando no switch de IP 10.0.60.61 DEU CERTO!!!
+19/04/2018 13:33:37 - CONEXAO SSH no Switch de IP 10.0.31.112 REALIZADA COM SUCESSO!
+19/04/2018 13:33:54 - Switch de IP 10.0.31.112 está com hora e data sincronizados!
+19/04/2018 13:33:54 - Switch de IP 10.0.31.112 iniciou o processo de push command
+19/04/2018 13:33:54 - A execução do comando no switch de IP 10.0.31.112 DEU CERTO!!!
+19/04/2018 13:34:29 - CONEXAO SSH no Switch de IP 10.0.26.81 REALIZADA COM SUCESSO!
+19/04/2018 13:34:46 - Switch de IP 10.0.26.81 está com hora e data sincronizados!
+19/04/2018 13:34:46 - Switch de IP 10.0.26.81 iniciou o processo de push command
+19/04/2018 13:34:46 - A execução do comando no switch de IP 10.0.26.81 DEU CERTO!!!
+19/04/2018 13:35:20 - CONEXAO SSH no Switch de IP 10.0.60.31 REALIZADA COM SUCESSO!
+19/04/2018 13:35:38 - Switch de IP 10.0.60.31 está com hora e data sincronizados!
+19/04/2018 13:35:38 - Switch de IP 10.0.60.31 iniciou o processo de push command
+19/04/2018 13:35:38 - A execução do comando no switch de IP 10.0.60.31 DEU CERTO!!!
+19/04/2018 13:36:12 - CONEXAO SSH no Switch de IP 10.0.60.32 REALIZADA COM SUCESSO!
+19/04/2018 13:36:30 - Switch de IP 10.0.60.32 está com hora e data sincronizados!
+19/04/2018 13:36:30 - Switch de IP 10.0.60.32 iniciou o processo de push command
+19/04/2018 13:36:30 - A execução do comando no switch de IP 10.0.60.32 DEU CERTO!!!
+19/04/2018 13:37:04 - CONEXAO SSH no Switch de IP 10.101.100.75 REALIZADA COM SUCESSO!
+19/04/2018 13:37:22 - Switch de IP 10.101.100.75 está com hora e data sincronizados!
+19/04/2018 13:37:22 - Switch de IP 10.101.100.75 iniciou o processo de push command
+19/04/2018 13:37:22 - A execução do comando no switch de IP 10.101.100.75 DEU CERTO!!!
+19/04/2018 13:37:56 - CONEXAO SSH no Switch de IP 10.0.27.20 REALIZADA COM SUCESSO!
+19/04/2018 13:38:14 - Switch de IP 10.0.27.20 está com hora e data sincronizados!
+19/04/2018 13:38:14 - Switch de IP 10.0.27.20 iniciou o processo de push command
+19/04/2018 13:38:14 - A execução do comando no switch de IP 10.0.27.20 DEU CERTO!!!
+19/04/2018 13:38:48 - CONEXAO SSH no Switch de IP 10.0.26.141 REALIZADA COM SUCESSO!
+19/04/2018 13:39:06 - Switch de IP 10.0.26.141 está com hora e data sincronizados!
+19/04/2018 13:39:06 - Switch de IP 10.0.26.141 iniciou o processo de push command
+19/04/2018 13:39:06 - A execução do comando no switch de IP 10.0.26.141 DEU CERTO!!!
+19/04/2018 13:39:40 - CONEXAO SSH no Switch de IP 10.0.26.145 REALIZADA COM SUCESSO!
+19/04/2018 13:39:58 - Switch de IP 10.0.26.145 está com hora e data sincronizados!
+19/04/2018 13:39:58 - Switch de IP 10.0.26.145 iniciou o processo de push command
+19/04/2018 13:39:58 - A execução do comando no switch de IP 10.0.26.145 DEU CERTO!!!
+19/04/2018 13:40:33 - CONEXAO SSH no Switch de IP 10.0.27.103 REALIZADA COM SUCESSO!
+19/04/2018 13:40:51 - Switch de IP 10.0.27.103 está com hora e data sincronizados!
+19/04/2018 13:40:51 - Switch de IP 10.0.27.103 iniciou o processo de push command
+19/04/2018 13:40:51 - A execução do comando no switch de IP 10.0.27.103 DEU CERTO!!!
+19/04/2018 13:41:26 - CONEXAO SSH no Switch de IP 10.101.100.68 REALIZADA COM SUCESSO!
+19/04/2018 13:41:43 - Switch de IP 10.101.100.68 está com hora e data sincronizados!
+19/04/2018 13:41:43 - Switch de IP 10.101.100.68 iniciou o processo de push command
+19/04/2018 13:41:43 - A execução do comando no switch de IP 10.101.100.68 DEU CERTO!!!
+19/04/2018 13:42:18 - CONEXAO SSH no Switch de IP 10.101.100.69 REALIZADA COM SUCESSO!
+19/04/2018 13:42:35 - Switch de IP 10.101.100.69 está com hora e data sincronizados!
+19/04/2018 13:42:35 - Switch de IP 10.101.100.69 iniciou o processo de push command
+19/04/2018 13:42:35 - A execução do comando no switch de IP 10.101.100.69 DEU CERTO!!!
+19/04/2018 13:43:10 - CONEXAO SSH no Switch de IP 10.0.60.63 REALIZADA COM SUCESSO!
+19/04/2018 13:43:28 - Switch de IP 10.0.60.63 está com hora e data sincronizados!
+19/04/2018 13:43:28 - Switch de IP 10.0.60.63 iniciou o processo de push command
+19/04/2018 13:43:28 - A execução do comando no switch de IP 10.0.60.63 DEU CERTO!!!
+19/04/2018 13:44:02 - CONEXAO SSH no Switch de IP 10.0.60.91 REALIZADA COM SUCESSO!
+19/04/2018 13:44:20 - Switch de IP 10.0.60.91 está com hora e data sincronizados!
+19/04/2018 13:44:20 - Switch de IP 10.0.60.91 iniciou o processo de push command
+19/04/2018 13:44:20 - A execução do comando no switch de IP 10.0.60.91 DEU CERTO!!!
+19/04/2018 13:44:54 - CONEXAO SSH no Switch de IP 10.0.60.73 REALIZADA COM SUCESSO!
+19/04/2018 13:45:12 - Switch de IP 10.0.60.73 está com hora e data sincronizados!
+19/04/2018 13:45:12 - Switch de IP 10.0.60.73 iniciou o processo de push command
+19/04/2018 13:45:12 - A execução do comando no switch de IP 10.0.60.73 DEU CERTO!!!
+19/04/2018 13:45:46 - CONEXAO SSH no Switch de IP 10.0.60.92 REALIZADA COM SUCESSO!
+19/04/2018 13:46:04 - Switch de IP 10.0.60.92 está com hora e data sincronizados!
+19/04/2018 13:46:04 - Switch de IP 10.0.60.92 iniciou o processo de push command
+19/04/2018 13:46:04 - A execução do comando no switch de IP 10.0.60.92 DEU CERTO!!!
+19/04/2018 13:46:38 - CONEXAO SSH no Switch de IP 10.0.27.100 REALIZADA COM SUCESSO!
+#####PROBLEM#####19/04/2018 13:46:38 - Firmware do Switch de IP 10.0.27.100 não foi atualizado pois a hora e data estão errados, verifique!
+19/04/2018 13:47:02 - CONEXAO SSH no Switch de IP 10.101.100.67 REALIZADA COM SUCESSO!
+19/04/2018 13:47:19 - Switch de IP 10.101.100.67 está com hora e data sincronizados!
+19/04/2018 13:47:19 - Switch de IP 10.101.100.67 iniciou o processo de push command
+19/04/2018 13:47:19 - A execução do comando no switch de IP 10.101.100.67 DEU CERTO!!!
+19/04/2018 13:47:54 - CONEXAO SSH no Switch de IP 10.0.60.59 REALIZADA COM SUCESSO!
+19/04/2018 13:48:11 - Switch de IP 10.0.60.59 está com hora e data sincronizados!
+19/04/2018 13:48:11 - Switch de IP 10.0.60.59 iniciou o processo de push command
+19/04/2018 13:48:11 - A execução do comando no switch de IP 10.0.60.59 DEU CERTO!!!
+19/04/2018 13:48:47 - CONEXAO SSH no Switch de IP 10.101.100.4 REALIZADA COM SUCESSO!
+19/04/2018 13:49:04 - Switch de IP 10.101.100.4 está com hora e data sincronizados!
+19/04/2018 13:49:04 - Switch de IP 10.101.100.4 iniciou o processo de push command
+19/04/2018 13:49:04 - A execução do comando no switch de IP 10.101.100.4 DEU CERTO!!!
+19/04/2018 13:49:39 - CONEXAO SSH no Switch de IP 10.0.60.56 REALIZADA COM SUCESSO!
+19/04/2018 13:49:56 - Switch de IP 10.0.60.56 está com hora e data sincronizados!
+19/04/2018 13:49:56 - Switch de IP 10.0.60.56 iniciou o processo de push command
+19/04/2018 13:49:56 - A execução do comando no switch de IP 10.0.60.56 DEU CERTO!!!
+19/04/2018 13:50:31 - CONEXAO SSH no Switch de IP 10.0.60.57 REALIZADA COM SUCESSO!
+19/04/2018 13:50:48 - Switch de IP 10.0.60.57 está com hora e data sincronizados!
+19/04/2018 13:50:48 - Switch de IP 10.0.60.57 iniciou o processo de push command
+19/04/2018 13:50:48 - A execução do comando no switch de IP 10.0.60.57 DEU CERTO!!!
+19/04/2018 13:51:23 - CONEXAO SSH no Switch de IP 10.0.60.58 REALIZADA COM SUCESSO!
+19/04/2018 13:51:40 - Switch de IP 10.0.60.58 está com hora e data sincronizados!
+19/04/2018 13:51:40 - Switch de IP 10.0.60.58 iniciou o processo de push command
+19/04/2018 13:51:40 - A execução do comando no switch de IP 10.0.60.58 DEU CERTO!!!
+19/04/2018 13:52:15 - CONEXAO SSH no Switch de IP 10.0.60.84 REALIZADA COM SUCESSO!
+19/04/2018 13:52:32 - Switch de IP 10.0.60.84 está com hora e data sincronizados!
+19/04/2018 13:52:32 - Switch de IP 10.0.60.84 iniciou o processo de push command
+19/04/2018 13:52:32 - A execução do comando no switch de IP 10.0.60.84 DEU CERTO!!!
+19/04/2018 13:53:07 - CONEXAO SSH no Switch de IP 10.0.60.85 REALIZADA COM SUCESSO!
+19/04/2018 13:53:24 - Switch de IP 10.0.60.85 está com hora e data sincronizados!
+19/04/2018 13:53:24 - Switch de IP 10.0.60.85 iniciou o processo de push command
+19/04/2018 13:53:24 - A execução do comando no switch de IP 10.0.60.85 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 13:54:11 - Switch de IP 10.0.28.219 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:54:26 - Switch de IP 10.0.28.218 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:54:41 - Switch de IP 10.0.28.225 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:54:56 - Switch de IP 10.0.60.72 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:55:11 - Switch de IP 10.0.60.88 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:55:26 - Switch de IP 10.0.60.87 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 13:55:29 - CONEXAO SSH no Switch de IP 10.0.60.23 REALIZADA COM SUCESSO!
+19/04/2018 13:55:46 - Switch de IP 10.0.60.23 está com hora e data sincronizados!
+19/04/2018 13:55:46 - Switch de IP 10.0.60.23 iniciou o processo de push command
+19/04/2018 13:55:46 - A execução do comando no switch de IP 10.0.60.23 DEU CERTO!!!
+19/04/2018 13:56:21 - CONEXAO SSH no Switch de IP 10.0.60.3 REALIZADA COM SUCESSO!
+19/04/2018 13:56:38 - Switch de IP 10.0.60.3 está com hora e data sincronizados!
+19/04/2018 13:56:38 - Switch de IP 10.0.60.3 iniciou o processo de push command
+19/04/2018 13:56:38 - A execução do comando no switch de IP 10.0.60.3 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 13:57:24 - Switch de IP 10.0.60.1 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:57:39 - Switch de IP 10.0.60.94 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 13:57:42 - CONEXAO SSH no Switch de IP 10.0.29.118 REALIZADA COM SUCESSO!
+19/04/2018 13:58:00 - Switch de IP 10.0.29.118 está com hora e data sincronizados!
+19/04/2018 13:58:00 - Switch de IP 10.0.29.118 iniciou o processo de push command
+19/04/2018 13:58:00 - A execução do comando no switch de IP 10.0.29.118 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 13:58:46 - Switch de IP 10.0.29.148 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 13:59:01 - Switch de IP 10.0.60.89 não respondeu ao ping, e por isso não pode ser verificado
+19/04/2018 13:59:04 - CONEXAO SSH no Switch de IP 10.0.26.196 REALIZADA COM SUCESSO!
+19/04/2018 13:59:21 - Switch de IP 10.0.26.196 está com hora e data sincronizados!
+19/04/2018 13:59:21 - Switch de IP 10.0.26.196 iniciou o processo de push command
+19/04/2018 13:59:21 - A execução do comando no switch de IP 10.0.26.196 DEU CERTO!!!
+19/04/2018 13:59:55 - CONEXAO SSH no Switch de IP 10.0.60.65 REALIZADA COM SUCESSO!
+19/04/2018 14:00:13 - Switch de IP 10.0.60.65 está com hora e data sincronizados!
+19/04/2018 14:00:13 - Switch de IP 10.0.60.65 iniciou o processo de push command
+19/04/2018 14:00:13 - A execução do comando no switch de IP 10.0.60.65 DEU CERTO!!!
+19/04/2018 14:00:47 - CONEXAO SSH no Switch de IP 10.0.60.77 REALIZADA COM SUCESSO!
+19/04/2018 14:01:05 - Switch de IP 10.0.60.77 está com hora e data sincronizados!
+19/04/2018 14:01:05 - Switch de IP 10.0.60.77 iniciou o processo de push command
+19/04/2018 14:01:05 - A execução do comando no switch de IP 10.0.60.77 DEU CERTO!!!
+19/04/2018 14:01:39 - CONEXAO SSH no Switch de IP 10.0.26.121 REALIZADA COM SUCESSO!
+#####PROBLEM#####19/04/2018 14:01:39 - Firmware do Switch de IP 10.0.26.121 não foi atualizado pois a hora e data estão errados, verifique!
+19/04/2018 14:02:03 - CONEXAO SSH no Switch de IP 10.0.60.79 REALIZADA COM SUCESSO!
+#####PROBLEM#####19/04/2018 14:02:03 - Firmware do Switch de IP 10.0.60.79 não foi atualizado pois a hora e data estão errados, verifique!
+19/04/2018 14:02:27 - CONEXAO SSH no Switch de IP 10.0.26.96 REALIZADA COM SUCESSO!
+19/04/2018 14:02:45 - Switch de IP 10.0.26.96 está com hora e data sincronizados!
+19/04/2018 14:02:45 - Switch de IP 10.0.26.96 iniciou o processo de push command
+19/04/2018 14:02:45 - A execução do comando no switch de IP 10.0.26.96 DEU CERTO!!!
+19/04/2018 14:03:19 - CONEXAO SSH no Switch de IP 10.0.26.103 REALIZADA COM SUCESSO!
+19/04/2018 14:03:36 - Switch de IP 10.0.26.103 está com hora e data sincronizados!
+19/04/2018 14:03:36 - Switch de IP 10.0.26.103 iniciou o processo de push command
+19/04/2018 14:03:36 - A execução do comando no switch de IP 10.0.26.103 DEU CERTO!!!
+19/04/2018 14:04:11 - CONEXAO SSH no Switch de IP 10.0.60.74 REALIZADA COM SUCESSO!
+19/04/2018 14:04:28 - Switch de IP 10.0.60.74 está com hora e data sincronizados!
+19/04/2018 14:04:28 - Switch de IP 10.0.60.74 iniciou o processo de push command
+19/04/2018 14:04:28 - A execução do comando no switch de IP 10.0.60.74 DEU CERTO!!!
+19/04/2018 14:05:03 - CONEXAO SSH no Switch de IP 10.0.60.81 REALIZADA COM SUCESSO!
+19/04/2018 14:05:20 - Switch de IP 10.0.60.81 está com hora e data sincronizados!
+19/04/2018 14:05:20 - Switch de IP 10.0.60.81 iniciou o processo de push command
+19/04/2018 14:05:20 - A execução do comando no switch de IP 10.0.60.81 DEU CERTO!!!
+19/04/2018 14:05:55 - CONEXAO SSH no Switch de IP 10.0.60.83 REALIZADA COM SUCESSO!
+19/04/2018 14:06:12 - Switch de IP 10.0.60.83 está com hora e data sincronizados!
+19/04/2018 14:06:12 - Switch de IP 10.0.60.83 iniciou o processo de push command
+19/04/2018 14:06:12 - A execução do comando no switch de IP 10.0.60.83 DEU CERTO!!!
+19/04/2018 14:06:46 - CONEXAO SSH no Switch de IP 10.0.60.80 REALIZADA COM SUCESSO!
+19/04/2018 14:07:04 - Switch de IP 10.0.60.80 está com hora e data sincronizados!
+19/04/2018 14:07:04 - Switch de IP 10.0.60.80 iniciou o processo de push command
+19/04/2018 14:07:04 - A execução do comando no switch de IP 10.0.60.80 DEU CERTO!!!
+19/04/2018 14:07:38 - CONEXAO SSH no Switch de IP 10.0.27.57 REALIZADA COM SUCESSO!
+19/04/2018 14:07:56 - Switch de IP 10.0.27.57 está com hora e data sincronizados!
+19/04/2018 14:07:56 - Switch de IP 10.0.27.57 iniciou o processo de push command
+19/04/2018 14:07:56 - A execução do comando no switch de IP 10.0.27.57 DEU CERTO!!!
+19/04/2018 14:08:30 - CONEXAO SSH no Switch de IP 10.0.26.238 REALIZADA COM SUCESSO!
+19/04/2018 14:08:48 - Switch de IP 10.0.26.238 está com hora e data sincronizados!
+19/04/2018 14:08:48 - Switch de IP 10.0.26.238 iniciou o processo de push command
+19/04/2018 14:08:48 - A execução do comando no switch de IP 10.0.26.238 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 14:09:34 - Switch de IP 10.0.27.94 não respondeu ao ping, e por isso não pode ser verificado
+
+
+=========================================================================================================================TIMBO
+
+19/04/2018 14:32:40 - CONEXAO SSH no Switch de IP 10.0.60.84 REALIZADA COM SUCESSO!
+19/04/2018 14:32:58 - Switch de IP 10.0.60.84 está com hora e data sincronizados!
+19/04/2018 14:32:58 - Switch de IP 10.0.60.84 iniciou o processo de push command
+19/04/2018 14:32:58 - A execução do comando no switch de IP 10.0.60.84 DEU CERTO!!!
+19/04/2018 14:33:32 - CONEXAO SSH no Switch de IP 10.0.60.85 REALIZADA COM SUCESSO!
+19/04/2018 14:33:50 - Switch de IP 10.0.60.85 está com hora e data sincronizados!
+19/04/2018 14:33:50 - Switch de IP 10.0.60.85 iniciou o processo de push command
+19/04/2018 14:33:50 - A execução do comando no switch de IP 10.0.60.85 DEU CERTO!!!
+19/04/2018 14:34:25 - CONEXAO SSH no Switch de IP 10.0.28.219 REALIZADA COM SUCESSO!
+#####PROBLEM#####19/04/2018 14:34:25 - Firmware do Switch de IP 10.0.28.219 não foi atualizado pois a hora e data estão errados, verifique!
+19/04/2018 14:34:49 - CONEXAO SSH no Switch de IP 10.0.28.218 REALIZADA COM SUCESSO!
+19/04/2018 14:35:07 - Switch de IP 10.0.28.218 está com hora e data sincronizados!
+19/04/2018 14:35:07 - Switch de IP 10.0.28.218 iniciou o processo de push command
+19/04/2018 14:35:07 - A execução do comando no switch de IP 10.0.28.218 DEU CERTO!!!
+19/04/2018 14:35:42 - CONEXAO SSH no Switch de IP 10.0.28.225 REALIZADA COM SUCESSO!
+19/04/2018 14:35:59 - Switch de IP 10.0.28.225 está com hora e data sincronizados!
+19/04/2018 14:35:59 - Switch de IP 10.0.28.225 iniciou o processo de push command
+19/04/2018 14:35:59 - A execução do comando no switch de IP 10.0.28.225 DEU CERTO!!!
+19/04/2018 14:36:34 - CONEXAO SSH no Switch de IP 10.0.60.72 REALIZADA COM SUCESSO!
+19/04/2018 14:36:51 - Switch de IP 10.0.60.72 está com hora e data sincronizados!
+19/04/2018 14:36:51 - Switch de IP 10.0.60.72 iniciou o processo de push command
+19/04/2018 14:36:51 - A execução do comando no switch de IP 10.0.60.72 DEU CERTO!!!
+19/04/2018 14:37:26 - CONEXAO SSH no Switch de IP 10.0.60.88 REALIZADA COM SUCESSO!
+19/04/2018 14:37:44 - Switch de IP 10.0.60.88 está com hora e data sincronizados!
+19/04/2018 14:37:44 - Switch de IP 10.0.60.88 iniciou o processo de push command
+19/04/2018 14:37:44 - A execução do comando no switch de IP 10.0.60.88 DEU CERTO!!!
+19/04/2018 14:38:18 - CONEXAO SSH no Switch de IP 10.0.60.87 REALIZADA COM SUCESSO!
+19/04/2018 14:38:36 - Switch de IP 10.0.60.87 está com hora e data sincronizados!
+19/04/2018 14:38:36 - Switch de IP 10.0.60.87 iniciou o processo de push command
+19/04/2018 14:38:36 - A execução do comando no switch de IP 10.0.60.87 DEU CERTO!!!
+19/04/2018 14:39:10 - CONEXAO SSH no Switch de IP 10.0.60.23 REALIZADA COM SUCESSO!
+19/04/2018 14:39:28 - Switch de IP 10.0.60.23 está com hora e data sincronizados!
+19/04/2018 14:39:28 - Switch de IP 10.0.60.23 iniciou o processo de push command
+19/04/2018 14:39:28 - A execução do comando no switch de IP 10.0.60.23 DEU CERTO!!!
+19/04/2018 14:40:02 - CONEXAO SSH no Switch de IP 10.0.60.3 REALIZADA COM SUCESSO!
+19/04/2018 14:40:20 - Switch de IP 10.0.60.3 está com hora e data sincronizados!
+19/04/2018 14:40:20 - Switch de IP 10.0.60.3 iniciou o processo de push command
+19/04/2018 14:40:20 - A execução do comando no switch de IP 10.0.60.3 DEU CERTO!!!
+19/04/2018 14:40:55 - CONEXAO SSH no Switch de IP 10.0.60.1 REALIZADA COM SUCESSO!
+19/04/2018 14:41:12 - Switch de IP 10.0.60.1 está com hora e data sincronizados!
+19/04/2018 14:41:12 - Switch de IP 10.0.60.1 iniciou o processo de push command
+19/04/2018 14:41:12 - A execução do comando no switch de IP 10.0.60.1 DEU CERTO!!!
+19/04/2018 14:41:47 - CONEXAO SSH no Switch de IP 10.0.60.94 REALIZADA COM SUCESSO!
+19/04/2018 14:42:04 - Switch de IP 10.0.60.94 está com hora e data sincronizados!
+19/04/2018 14:42:04 - Switch de IP 10.0.60.94 iniciou o processo de push command
+19/04/2018 14:42:04 - A execução do comando no switch de IP 10.0.60.94 DEU CERTO!!!
+19/04/2018 14:42:39 - CONEXAO SSH no Switch de IP 10.0.29.118 REALIZADA COM SUCESSO!
+19/04/2018 14:42:56 - Switch de IP 10.0.29.118 está com hora e data sincronizados!
+19/04/2018 14:42:56 - Switch de IP 10.0.29.118 iniciou o processo de push command
+19/04/2018 14:42:56 - A execução do comando no switch de IP 10.0.29.118 DEU CERTO!!!
+19/04/2018 14:43:31 - CONEXAO SSH no Switch de IP 10.0.29.148 REALIZADA COM SUCESSO!
+19/04/2018 14:43:48 - Switch de IP 10.0.29.148 está com hora e data sincronizados!
+19/04/2018 14:43:48 - Switch de IP 10.0.29.148 iniciou o processo de push command
+19/04/2018 14:43:48 - A execução do comando no switch de IP 10.0.29.148 DEU CERTO!!!
+19/04/2018 14:44:23 - CONEXAO SSH no Switch de IP 10.0.60.89 REALIZADA COM SUCESSO!
+19/04/2018 14:44:41 - Switch de IP 10.0.60.89 está com hora e data sincronizados!
+19/04/2018 14:44:41 - Switch de IP 10.0.60.89 iniciou o processo de push command
+19/04/2018 14:44:41 - A execução do comando no switch de IP 10.0.60.89 DEU CERTO!!!
+19/04/2018 14:45:15 - CONEXAO SSH no Switch de IP 10.0.26.196 REALIZADA COM SUCESSO!
+19/04/2018 14:45:33 - Switch de IP 10.0.26.196 está com hora e data sincronizados!
+19/04/2018 14:45:33 - Switch de IP 10.0.26.196 iniciou o processo de push command
+19/04/2018 14:45:33 - A execução do comando no switch de IP 10.0.26.196 DEU CERTO!!!
+19/04/2018 14:46:07 - CONEXAO SSH no Switch de IP 10.0.60.65 REALIZADA COM SUCESSO!
+19/04/2018 14:46:25 - Switch de IP 10.0.60.65 está com hora e data sincronizados!
+19/04/2018 14:46:25 - Switch de IP 10.0.60.65 iniciou o processo de push command
+19/04/2018 14:46:25 - A execução do comando no switch de IP 10.0.60.65 DEU CERTO!!!
+19/04/2018 14:46:59 - CONEXAO SSH no Switch de IP 10.0.60.77 REALIZADA COM SUCESSO!
+19/04/2018 14:47:17 - Switch de IP 10.0.60.77 está com hora e data sincronizados!
+19/04/2018 14:47:17 - Switch de IP 10.0.60.77 iniciou o processo de push command
+19/04/2018 14:47:17 - A execução do comando no switch de IP 10.0.60.77 DEU CERTO!!!
+19/04/2018 14:47:51 - CONEXAO SSH no Switch de IP 10.0.26.121 REALIZADA COM SUCESSO!
+19/04/2018 14:48:09 - Switch de IP 10.0.26.121 está com hora e data sincronizados!
+19/04/2018 14:48:09 - Switch de IP 10.0.26.121 iniciou o processo de push command
+19/04/2018 14:48:09 - A execução do comando no switch de IP 10.0.26.121 DEU CERTO!!!
+19/04/2018 14:48:43 - CONEXAO SSH no Switch de IP 10.0.60.79 REALIZADA COM SUCESSO!
+19/04/2018 14:49:01 - Switch de IP 10.0.60.79 está com hora e data sincronizados!
+19/04/2018 14:49:01 - Switch de IP 10.0.60.79 iniciou o processo de push command
+19/04/2018 14:49:01 - A execução do comando no switch de IP 10.0.60.79 DEU CERTO!!!
+19/04/2018 14:49:35 - CONEXAO SSH no Switch de IP 10.0.26.96 REALIZADA COM SUCESSO!
+19/04/2018 14:49:53 - Switch de IP 10.0.26.96 está com hora e data sincronizados!
+19/04/2018 14:49:53 - Switch de IP 10.0.26.96 iniciou o processo de push command
+19/04/2018 14:49:53 - A execução do comando no switch de IP 10.0.26.96 DEU CERTO!!!
+19/04/2018 14:50:27 - CONEXAO SSH no Switch de IP 10.0.26.103 REALIZADA COM SUCESSO!
+19/04/2018 14:50:45 - Switch de IP 10.0.26.103 está com hora e data sincronizados!
+19/04/2018 14:50:45 - Switch de IP 10.0.26.103 iniciou o processo de push command
+19/04/2018 14:50:45 - A execução do comando no switch de IP 10.0.26.103 DEU CERTO!!!
+19/04/2018 14:51:19 - CONEXAO SSH no Switch de IP 10.0.60.74 REALIZADA COM SUCESSO!
+19/04/2018 14:51:37 - Switch de IP 10.0.60.74 está com hora e data sincronizados!
+19/04/2018 14:51:37 - Switch de IP 10.0.60.74 iniciou o processo de push command
+19/04/2018 14:51:37 - A execução do comando no switch de IP 10.0.60.74 DEU CERTO!!!
+19/04/2018 14:52:11 - CONEXAO SSH no Switch de IP 10.0.60.81 REALIZADA COM SUCESSO!
+19/04/2018 14:52:29 - Switch de IP 10.0.60.81 está com hora e data sincronizados!
+19/04/2018 14:52:29 - Switch de IP 10.0.60.81 iniciou o processo de push command
+19/04/2018 14:52:29 - A execução do comando no switch de IP 10.0.60.81 DEU CERTO!!!
+19/04/2018 14:53:03 - CONEXAO SSH no Switch de IP 10.0.60.83 REALIZADA COM SUCESSO!
+19/04/2018 14:53:21 - Switch de IP 10.0.60.83 está com hora e data sincronizados!
+19/04/2018 14:53:21 - Switch de IP 10.0.60.83 iniciou o processo de push command
+19/04/2018 14:53:21 - A execução do comando no switch de IP 10.0.60.83 DEU CERTO!!!
+19/04/2018 14:53:55 - CONEXAO SSH no Switch de IP 10.0.60.80 REALIZADA COM SUCESSO!
+19/04/2018 14:54:13 - Switch de IP 10.0.60.80 está com hora e data sincronizados!
+19/04/2018 14:54:13 - Switch de IP 10.0.60.80 iniciou o processo de push command
+19/04/2018 14:54:13 - A execução do comando no switch de IP 10.0.60.80 DEU CERTO!!!
+19/04/2018 14:54:47 - CONEXAO SSH no Switch de IP 10.0.27.57 REALIZADA COM SUCESSO!
+19/04/2018 14:55:04 - Switch de IP 10.0.27.57 está com hora e data sincronizados!
+19/04/2018 14:55:04 - Switch de IP 10.0.27.57 iniciou o processo de push command
+19/04/2018 14:55:04 - A execução do comando no switch de IP 10.0.27.57 DEU CERTO!!!
+19/04/2018 14:55:39 - CONEXAO SSH no Switch de IP 10.0.26.238 REALIZADA COM SUCESSO!
+19/04/2018 14:55:56 - Switch de IP 10.0.26.238 está com hora e data sincronizados!
+19/04/2018 14:55:56 - Switch de IP 10.0.26.238 iniciou o processo de push command
+19/04/2018 14:55:56 - A execução do comando no switch de IP 10.0.26.238 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 14:56:41 - Switch de IP 10.0.27.94 não respondeu ao ping, e por isso não pode ser verificado
+==================================LAST
+19/04/2018 15:01:42 - CONEXAO SSH no Switch de IP 10.0.28.219 REALIZADA COM SUCESSO!
+19/04/2018 15:02:00 - Switch de IP 10.0.28.219 está com hora e data sincronizados!
+19/04/2018 15:02:00 - Switch de IP 10.0.28.219 iniciou o processo de push command
+19/04/2018 15:02:00 - A execução do comando no switch de IP 10.0.28.219 DEU CERTO!!!
+19/04/2018 15:15:04 - CONEXAO SSH no Switch de IP 10.12.0.35 REALIZADA COM SUCESSO!
+19/04/2018 15:15:22 - Switch de IP 10.12.0.35 está com hora e data sincronizados!
+19/04/2018 15:15:22 - Switch de IP 10.12.0.35 iniciou o processo de push command
+19/04/2018 15:15:22 - A execução do comando no switch de IP 10.12.0.35 DEU CERTO!!!
+19/04/2018 15:15:56 - CONEXAO SSH no Switch de IP 10.12.0.32 REALIZADA COM SUCESSO!
+19/04/2018 15:16:14 - Switch de IP 10.12.0.32 está com hora e data sincronizados!
+19/04/2018 15:16:14 - Switch de IP 10.12.0.32 iniciou o processo de push command
+19/04/2018 15:16:14 - A execução do comando no switch de IP 10.12.0.32 DEU CERTO!!!
+19/04/2018 15:16:49 - CONEXAO SSH no Switch de IP 10.12.0.33 REALIZADA COM SUCESSO!
+19/04/2018 15:17:06 - Switch de IP 10.12.0.33 está com hora e data sincronizados!
+19/04/2018 15:17:06 - Switch de IP 10.12.0.33 iniciou o processo de push command
+19/04/2018 15:17:06 - A execução do comando no switch de IP 10.12.0.33 DEU CERTO!!!
+19/04/2018 15:17:41 - CONEXAO SSH no Switch de IP 10.12.0.34 REALIZADA COM SUCESSO!
+19/04/2018 15:17:58 - Switch de IP 10.12.0.34 está com hora e data sincronizados!
+19/04/2018 15:17:58 - Switch de IP 10.12.0.34 iniciou o processo de push command
+19/04/2018 15:17:58 - A execução do comando no switch de IP 10.12.0.34 DEU CERTO!!!
+19/04/2018 15:18:34 - CONEXAO SSH no Switch de IP 10.12.8.93 REALIZADA COM SUCESSO!
+19/04/2018 15:18:52 - Switch de IP 10.12.8.93 está com hora e data sincronizados!
+19/04/2018 15:18:52 - Switch de IP 10.12.8.93 iniciou o processo de push command
+19/04/2018 15:18:52 - A execução do comando no switch de IP 10.12.8.93 DEU CERTO!!!
+19/04/2018 15:19:26 - CONEXAO SSH no Switch de IP 10.12.8.44 REALIZADA COM SUCESSO!
+19/04/2018 15:19:44 - Switch de IP 10.12.8.44 está com hora e data sincronizados!
+19/04/2018 15:19:44 - Switch de IP 10.12.8.44 iniciou o processo de push command
+19/04/2018 15:19:44 - A execução do comando no switch de IP 10.12.8.44 DEU CERTO!!!
+19/04/2018 15:20:21 - CONEXAO SSH no Switch de IP 10.12.8.96 REALIZADA COM SUCESSO!
+19/04/2018 15:20:39 - Switch de IP 10.12.8.96 está com hora e data sincronizados!
+19/04/2018 15:20:39 - Switch de IP 10.12.8.96 iniciou o processo de push command
+19/04/2018 15:20:39 - A execução do comando no switch de IP 10.12.8.96 DEU CERTO!!!
+19/04/2018 15:21:14 - CONEXAO SSH no Switch de IP 10.12.0.22 REALIZADA COM SUCESSO!
+19/04/2018 15:21:31 - Switch de IP 10.12.0.22 está com hora e data sincronizados!
+19/04/2018 15:21:31 - Switch de IP 10.12.0.22 iniciou o processo de push command
+19/04/2018 15:21:31 - A execução do comando no switch de IP 10.12.0.22 DEU CERTO!!!
+19/04/2018 15:22:06 - CONEXAO SSH no Switch de IP 10.12.0.23 REALIZADA COM SUCESSO!
+19/04/2018 15:22:24 - Switch de IP 10.12.0.23 está com hora e data sincronizados!
+19/04/2018 15:22:24 - Switch de IP 10.12.0.23 iniciou o processo de push command
+19/04/2018 15:22:24 - A execução do comando no switch de IP 10.12.0.23 DEU CERTO!!!
+19/04/2018 15:22:58 - CONEXAO SSH no Switch de IP 10.12.0.27 REALIZADA COM SUCESSO!
+19/04/2018 15:23:16 - Switch de IP 10.12.0.27 está com hora e data sincronizados!
+19/04/2018 15:23:16 - Switch de IP 10.12.0.27 iniciou o processo de push command
+19/04/2018 15:23:16 - A execução do comando no switch de IP 10.12.0.27 DEU CERTO!!!
+19/04/2018 15:23:52 - CONEXAO SSH no Switch de IP 10.12.0.25 REALIZADA COM SUCESSO!
+19/04/2018 15:24:09 - Switch de IP 10.12.0.25 está com hora e data sincronizados!
+19/04/2018 15:24:09 - Switch de IP 10.12.0.25 iniciou o processo de push command
+19/04/2018 15:24:09 - A execução do comando no switch de IP 10.12.0.25 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 15:24:44 - CONEXÃO SSH no Switch de IP 10.18.100.1 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:02 - Switch de IP 10.18.100.100 não respondeu ao ping, e por isso não pode ser verificado
+#####PROBLEM#####19/04/2018 15:25:05 - CONEXÃO SSH no Switch de IP 10.130.10.1 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:11 - CONEXÃO SSH no Switch de IP 10.130.10.2 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:17 - CONEXÃO SSH no Switch de IP 10.130.10.3 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:23 - CONEXÃO SSH no Switch de IP 10.130.10.4 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:28 - CONEXÃO SSH no Switch de IP 10.130.10.5 NÃO DEU CERTO!
+#####PROBLEM#####19/04/2018 15:25:34 - CONEXÃO SSH no Switch de IP 10.130.10.6 NÃO DEU CERTO!
+19/04/2018 15:32:57 - CONEXAO SSH no Switch de IP 10.130.10.1 REALIZADA COM SUCESSO!
+19/04/2018 15:33:15 - Switch de IP 10.130.10.1 está com hora e data sincronizados!
+19/04/2018 15:33:15 - Switch de IP 10.130.10.1 iniciou o processo de push command
+19/04/2018 15:33:15 - A execução do comando no switch de IP 10.130.10.1 DEU CERTO!!!
+19/04/2018 15:36:26 - CONEXAO SSH no Switch de IP 10.130.10.2 REALIZADA COM SUCESSO!
+19/04/2018 15:36:43 - Switch de IP 10.130.10.2 está com hora e data sincronizados!
+19/04/2018 15:36:43 - Switch de IP 10.130.10.2 iniciou o processo de push command
+19/04/2018 15:36:43 - A execução do comando no switch de IP 10.130.10.2 DEU CERTO!!!
+19/04/2018 15:38:24 - CONEXAO SSH no Switch de IP 10.130.10.3 REALIZADA COM SUCESSO!
+19/04/2018 15:38:41 - Switch de IP 10.130.10.3 está com hora e data sincronizados!
+19/04/2018 15:38:41 - Switch de IP 10.130.10.3 iniciou o processo de push command
+19/04/2018 15:38:41 - A execução do comando no switch de IP 10.130.10.3 DEU CERTO!!!
+19/04/2018 15:40:22 - CONEXAO SSH no Switch de IP 10.130.10.4 REALIZADA COM SUCESSO!
+19/04/2018 15:40:39 - Switch de IP 10.130.10.4 está com hora e data sincronizados!
+19/04/2018 15:40:39 - Switch de IP 10.130.10.4 iniciou o processo de push command
+19/04/2018 15:40:39 - A execução do comando no switch de IP 10.130.10.4 DEU CERTO!!!
+19/04/2018 15:42:20 - CONEXAO SSH no Switch de IP 10.130.10.5 REALIZADA COM SUCESSO!
+19/04/2018 15:42:37 - Switch de IP 10.130.10.5 está com hora e data sincronizados!
+19/04/2018 15:42:37 - Switch de IP 10.130.10.5 iniciou o processo de push command
+19/04/2018 15:42:37 - A execução do comando no switch de IP 10.130.10.5 DEU CERTO!!!
+19/04/2018 15:44:18 - CONEXAO SSH no Switch de IP 10.130.10.6 REALIZADA COM SUCESSO!
+19/04/2018 15:44:36 - Switch de IP 10.130.10.6 está com hora e data sincronizados!
+19/04/2018 15:44:36 - Switch de IP 10.130.10.6 iniciou o processo de push command
+19/04/2018 15:44:36 - A execução do comando no switch de IP 10.130.10.6 DEU CERTO!!!
+19/04/2018 15:46:16 - CONEXAO SSH no Switch de IP 10.130.10.7 REALIZADA COM SUCESSO!
+19/04/2018 15:46:34 - Switch de IP 10.130.10.7 está com hora e data sincronizados!
+19/04/2018 15:46:34 - Switch de IP 10.130.10.7 iniciou o processo de push command
+19/04/2018 15:46:34 - A execução do comando no switch de IP 10.130.10.7 DEU CERTO!!!
+19/04/2018 15:48:14 - CONEXAO SSH no Switch de IP 10.130.10.8 REALIZADA COM SUCESSO!
+19/04/2018 15:48:32 - Switch de IP 10.130.10.8 está com hora e data sincronizados!
+19/04/2018 15:48:32 - Switch de IP 10.130.10.8 iniciou o processo de push command
+19/04/2018 15:48:32 - A execução do comando no switch de IP 10.130.10.8 DEU CERTO!!!
+19/04/2018 15:50:13 - CONEXAO SSH no Switch de IP 10.130.10.9 REALIZADA COM SUCESSO!
+19/04/2018 15:50:30 - Switch de IP 10.130.10.9 está com hora e data sincronizados!
+19/04/2018 15:50:30 - Switch de IP 10.130.10.9 iniciou o processo de push command
+19/04/2018 15:50:30 - A execução do comando no switch de IP 10.130.10.9 DEU CERTO!!!
+19/04/2018 15:52:10 - CONEXAO SSH no Switch de IP 10.130.10.10 REALIZADA COM SUCESSO!
+19/04/2018 15:52:28 - Switch de IP 10.130.10.10 está com hora e data sincronizados!
+19/04/2018 15:52:28 - Switch de IP 10.130.10.10 iniciou o processo de push command
+19/04/2018 15:52:28 - A execução do comando no switch de IP 10.130.10.10 DEU CERTO!!!
+19/04/2018 15:54:08 - CONEXAO SSH no Switch de IP 10.130.10.11 REALIZADA COM SUCESSO!
+19/04/2018 15:54:26 - Switch de IP 10.130.10.11 está com hora e data sincronizados!
+19/04/2018 15:54:26 - Switch de IP 10.130.10.11 iniciou o processo de push command
+19/04/2018 15:54:26 - A execução do comando no switch de IP 10.130.10.11 DEU CERTO!!!
+19/04/2018 15:56:06 - CONEXAO SSH no Switch de IP 10.130.10.12 REALIZADA COM SUCESSO!
+19/04/2018 15:56:24 - Switch de IP 10.130.10.12 está com hora e data sincronizados!
+19/04/2018 15:56:24 - Switch de IP 10.130.10.12 iniciou o processo de push command
+19/04/2018 15:56:24 - A execução do comando no switch de IP 10.130.10.12 DEU CERTO!!!
+19/04/2018 15:58:05 - CONEXAO SSH no Switch de IP 10.130.10.13 REALIZADA COM SUCESSO!
+19/04/2018 15:58:23 - Switch de IP 10.130.10.13 está com hora e data sincronizados!
+19/04/2018 15:58:23 - Switch de IP 10.130.10.13 iniciou o processo de push command
+19/04/2018 15:58:23 - A execução do comando no switch de IP 10.130.10.13 DEU CERTO!!!
+19/04/2018 16:00:03 - CONEXAO SSH no Switch de IP 10.130.10.14 REALIZADA COM SUCESSO!
+19/04/2018 16:00:21 - Switch de IP 10.130.10.14 está com hora e data sincronizados!
+19/04/2018 16:00:21 - Switch de IP 10.130.10.14 iniciou o processo de push command
+19/04/2018 16:00:21 - A execução do comando no switch de IP 10.130.10.14 DEU CERTO!!!
+19/04/2018 16:02:01 - CONEXAO SSH no Switch de IP 10.130.10.15 REALIZADA COM SUCESSO!
+19/04/2018 16:02:19 - Switch de IP 10.130.10.15 está com hora e data sincronizados!
+19/04/2018 16:02:19 - Switch de IP 10.130.10.15 iniciou o processo de push command
+19/04/2018 16:02:19 - A execução do comando no switch de IP 10.130.10.15 DEU CERTO!!!
+19/04/2018 16:03:59 - CONEXAO SSH no Switch de IP 10.130.10.16 REALIZADA COM SUCESSO!
+19/04/2018 16:04:17 - Switch de IP 10.130.10.16 está com hora e data sincronizados!
+19/04/2018 16:04:17 - Switch de IP 10.130.10.16 iniciou o processo de push command
+19/04/2018 16:04:17 - A execução do comando no switch de IP 10.130.10.16 DEU CERTO!!!
+19/04/2018 16:05:57 - CONEXAO SSH no Switch de IP 10.130.10.17 REALIZADA COM SUCESSO!
+19/04/2018 16:06:15 - Switch de IP 10.130.10.17 está com hora e data sincronizados!
+19/04/2018 16:06:15 - Switch de IP 10.130.10.17 iniciou o processo de push command
+19/04/2018 16:06:15 - A execução do comando no switch de IP 10.130.10.17 DEU CERTO!!!
+19/04/2018 16:07:55 - CONEXAO SSH no Switch de IP 10.130.10.18 REALIZADA COM SUCESSO!
+19/04/2018 16:08:13 - Switch de IP 10.130.10.18 está com hora e data sincronizados!
+19/04/2018 16:08:13 - Switch de IP 10.130.10.18 iniciou o processo de push command
+19/04/2018 16:08:13 - A execução do comando no switch de IP 10.130.10.18 DEU CERTO!!!
+19/04/2018 16:09:53 - CONEXAO SSH no Switch de IP 10.130.10.19 REALIZADA COM SUCESSO!
+19/04/2018 16:10:11 - Switch de IP 10.130.10.19 está com hora e data sincronizados!
+19/04/2018 16:10:11 - Switch de IP 10.130.10.19 iniciou o processo de push command
+19/04/2018 16:10:11 - A execução do comando no switch de IP 10.130.10.19 DEU CERTO!!!
+19/04/2018 16:11:51 - CONEXAO SSH no Switch de IP 10.130.10.20 REALIZADA COM SUCESSO!
+19/04/2018 16:12:09 - Switch de IP 10.130.10.20 está com hora e data sincronizados!
+19/04/2018 16:12:09 - Switch de IP 10.130.10.20 iniciou o processo de push command
+19/04/2018 16:12:09 - A execução do comando no switch de IP 10.130.10.20 DEU CERTO!!!
+19/04/2018 16:13:49 - CONEXAO SSH no Switch de IP 10.130.10.21 REALIZADA COM SUCESSO!
+19/04/2018 16:14:07 - Switch de IP 10.130.10.21 está com hora e data sincronizados!
+19/04/2018 16:14:07 - Switch de IP 10.130.10.21 iniciou o processo de push command
+19/04/2018 16:14:07 - A execução do comando no switch de IP 10.130.10.21 DEU CERTO!!!
+19/04/2018 16:15:48 - CONEXAO SSH no Switch de IP 10.130.10.22 REALIZADA COM SUCESSO!
+19/04/2018 16:16:05 - Switch de IP 10.130.10.22 está com hora e data sincronizados!
+19/04/2018 16:16:05 - Switch de IP 10.130.10.22 iniciou o processo de push command
+19/04/2018 16:16:05 - A execução do comando no switch de IP 10.130.10.22 DEU CERTO!!!
+19/04/2018 16:17:46 - CONEXAO SSH no Switch de IP 10.130.10.23 REALIZADA COM SUCESSO!
+19/04/2018 16:18:03 - Switch de IP 10.130.10.23 está com hora e data sincronizados!
+19/04/2018 16:18:03 - Switch de IP 10.130.10.23 iniciou o processo de push command
+19/04/2018 16:18:03 - A execução do comando no switch de IP 10.130.10.23 DEU CERTO!!!
+19/04/2018 16:19:44 - CONEXAO SSH no Switch de IP 10.130.10.24 REALIZADA COM SUCESSO!
+19/04/2018 16:20:01 - Switch de IP 10.130.10.24 está com hora e data sincronizados!
+19/04/2018 16:20:01 - Switch de IP 10.130.10.24 iniciou o processo de push command
+19/04/2018 16:20:01 - A execução do comando no switch de IP 10.130.10.24 DEU CERTO!!!
+19/04/2018 16:21:42 - CONEXAO SSH no Switch de IP 10.130.10.25 REALIZADA COM SUCESSO!
+19/04/2018 16:21:59 - Switch de IP 10.130.10.25 está com hora e data sincronizados!
+19/04/2018 16:21:59 - Switch de IP 10.130.10.25 iniciou o processo de push command
+19/04/2018 16:21:59 - A execução do comando no switch de IP 10.130.10.25 DEU CERTO!!!
+19/04/2018 16:23:40 - CONEXAO SSH no Switch de IP 10.130.10.26 REALIZADA COM SUCESSO!
+19/04/2018 16:23:58 - Switch de IP 10.130.10.26 está com hora e data sincronizados!
+19/04/2018 16:23:58 - Switch de IP 10.130.10.26 iniciou o processo de push command
+19/04/2018 16:23:58 - A execução do comando no switch de IP 10.130.10.26 DEU CERTO!!!
+19/04/2018 16:25:39 - CONEXAO SSH no Switch de IP 10.130.10.27 REALIZADA COM SUCESSO!
+19/04/2018 16:25:57 - Switch de IP 10.130.10.27 está com hora e data sincronizados!
+19/04/2018 16:25:57 - Switch de IP 10.130.10.27 iniciou o processo de push command
+19/04/2018 16:25:57 - A execução do comando no switch de IP 10.130.10.27 DEU CERTO!!!
+19/04/2018 16:27:38 - CONEXAO SSH no Switch de IP 10.130.10.28 REALIZADA COM SUCESSO!
+19/04/2018 16:27:55 - Switch de IP 10.130.10.28 está com hora e data sincronizados!
+19/04/2018 16:27:55 - Switch de IP 10.130.10.28 iniciou o processo de push command
+19/04/2018 16:27:55 - A execução do comando no switch de IP 10.130.10.28 DEU CERTO!!!
+19/04/2018 16:29:36 - CONEXAO SSH no Switch de IP 10.130.10.29 REALIZADA COM SUCESSO!
+19/04/2018 16:29:54 - Switch de IP 10.130.10.29 está com hora e data sincronizados!
+19/04/2018 16:29:54 - Switch de IP 10.130.10.29 iniciou o processo de push command
+19/04/2018 16:29:54 - A execução do comando no switch de IP 10.130.10.29 DEU CERTO!!!
+19/04/2018 16:31:34 - CONEXAO SSH no Switch de IP 10.130.10.30 REALIZADA COM SUCESSO!
+19/04/2018 16:31:52 - Switch de IP 10.130.10.30 está com hora e data sincronizados!
+19/04/2018 16:31:52 - Switch de IP 10.130.10.30 iniciou o processo de push command
+19/04/2018 16:31:52 - A execução do comando no switch de IP 10.130.10.30 DEU CERTO!!!
+19/04/2018 16:33:32 - CONEXAO SSH no Switch de IP 10.130.10.31 REALIZADA COM SUCESSO!
+19/04/2018 16:33:50 - Switch de IP 10.130.10.31 está com hora e data sincronizados!
+19/04/2018 16:33:50 - Switch de IP 10.130.10.31 iniciou o processo de push command
+19/04/2018 16:33:50 - A execução do comando no switch de IP 10.130.10.31 DEU CERTO!!!
+19/04/2018 16:35:30 - CONEXAO SSH no Switch de IP 10.130.10.32 REALIZADA COM SUCESSO!
+19/04/2018 16:35:48 - Switch de IP 10.130.10.32 está com hora e data sincronizados!
+19/04/2018 16:35:48 - Switch de IP 10.130.10.32 iniciou o processo de push command
+19/04/2018 16:35:48 - A execução do comando no switch de IP 10.130.10.32 DEU CERTO!!!
+19/04/2018 16:37:29 - CONEXAO SSH no Switch de IP 10.130.10.33 REALIZADA COM SUCESSO!
+19/04/2018 16:37:46 - Switch de IP 10.130.10.33 está com hora e data sincronizados!
+19/04/2018 16:37:46 - Switch de IP 10.130.10.33 iniciou o processo de push command
+19/04/2018 16:37:46 - A execução do comando no switch de IP 10.130.10.33 DEU CERTO!!!
+19/04/2018 16:39:27 - CONEXAO SSH no Switch de IP 10.130.0.1 REALIZADA COM SUCESSO!
+19/04/2018 16:41:31 - CONEXAO SSH no Switch de IP 10.130.0.1 REALIZADA COM SUCESSO!
+19/04/2018 16:41:49 - Switch de IP 10.130.0.1 está com hora e data sincronizados!
+19/04/2018 16:41:49 - Switch de IP 10.130.0.1 iniciou o processo de push command
+19/04/2018 16:41:49 - A execução do comando no switch de IP 10.130.0.1 DEU CERTO!!!
+19/04/2018 16:43:29 - CONEXAO SSH no Switch de IP 10.130.0.2 REALIZADA COM SUCESSO!
+19/04/2018 16:43:47 - Switch de IP 10.130.0.2 está com hora e data sincronizados!
+19/04/2018 16:43:47 - Switch de IP 10.130.0.2 iniciou o processo de push command
+19/04/2018 16:43:47 - A execução do comando no switch de IP 10.130.0.2 DEU CERTO!!!
+#####PROBLEM#####19/04/2018 16:45:28 - CONEXÃO SSH no Switch de IP 10.54.1.176 NÃO DEU CERTO!
